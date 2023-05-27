@@ -1,0 +1,22 @@
+{
+  "products": [
+    {
+      "id": 2,
+      "name": "product B update",
+      "price": "200444",
+      "image": "anh 2 update"
+    },
+    {
+      "id": 3,
+      "name": "product C",
+      "price": 300,
+      "image": "anh 3"
+    },
+    {
+      "name": "product A new",
+      "price": "1000",
+      "image": "ok nhe ban oi ",
+      "id": 4
+    }
+  ]
+}
